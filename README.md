@@ -42,11 +42,11 @@ is licensed under the GNU AGPLv3-or-later.
 1. Ensure you have Godot 4.1 installed on your machine.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Particle-Sandbox.git
+   git clone https://github.com/JamesClarke7283/particle_sandbox
    ```
 3. Open in Godot and you are good to go!!
 
-## License
+## Licenses
 
 ### Code License
 
